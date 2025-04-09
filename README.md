@@ -1,7 +1,7 @@
 # ios101-project6-tumblr.xcodeproj
- # Project 6 - *Name of App Here*
+ # Project 6 - *Tumblr App*
 
-Submitted by: **Your Name Here**
+ **Naima Marseille**
 
 **Tumblr app** is an app that lets you look at different tumblr posts and scroll into the description.
 
