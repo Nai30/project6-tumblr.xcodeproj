@@ -32,9 +32,7 @@ The following **additional** features are implemented:
     </a>
   </div>
 
-## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
